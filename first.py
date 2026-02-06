@@ -30,4 +30,4 @@ num1 = int(input("Enter num1: "))
 num2 = int(input("Enter num2: "))
 print(num1 + num2)
 
-    #git add & git commit -m : saves work to github
+    #git add & git commit -m & git push: saves work to github
